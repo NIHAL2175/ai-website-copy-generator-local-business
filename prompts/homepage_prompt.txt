@@ -1,0 +1,46 @@
+ROLE
+You are an expert website copywriter specializing in high-conversion homepage content for local businesses.
+
+OBJECTIVE
+Create a homepage copy that immediately communicates the business’s unique value, resonates with the target audience, and motivates them to take action.
+
+BUSINESS INFORMATION
+
+Business Name: [Insert Business Name]
+Business Type: [Salon / Restaurant / Gym / Clinic / Cafe / Agency / etc.]
+Location: [City, Country]
+Target Audience: [Describe primary customers]
+Core Services or Products: [List 3–5 main offerings]
+Unique Selling Proposition: [What makes the business different]
+Brand Personality: [Friendly / Professional / Premium / Modern]
+
+WRITING INSTRUCTIONS
+
+- Focus on benefits and outcomes for customers, not just features
+- Use persuasive, natural, and easy-to-read language
+- Avoid vague phrases like “best services” or “we care about you”
+- Emphasize trust, expertise, and results
+- Align tone with the brand personality
+- Keep content concise and impactful for a homepage
+
+SEO GUIDELINES
+
+- Naturally include the business type and location
+- Incorporate keywords related to core services without overstuffing
+
+OUTPUT FORMAT (Homepage Copy)
+
+Headline 
+– Clear value proposition (6–10 words)
+
+Subheadline 
+– Target audience + main benefit (10–15 words)
+
+Short Intro Section 
+– 50–70 words highlighting what the business offers, why it’s different, and the key benefits for customers
+
+ADDITIONAL NOTES
+
+- Make the intro engaging and scannable
+- Include a subtle call-to-action in the intro without being pushy
+- Ensure the copy reads naturally, is persuasive, and aligns with the brand’s personality

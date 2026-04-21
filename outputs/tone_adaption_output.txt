@@ -1,0 +1,15 @@
+TONE ADAPTATION
+
+INPUT MESSAGE:
+Start your fitness journey with expert guidance and real results.
+
+OUTPUT
+
+Friendly Version:
+- Start your fitness journey with our friendly trainers and see results you’ll feel proud of.
+
+Professional Version:
+- Begin your fitness journey with expert guidance focused on delivering consistent and measurable results.
+
+Confident Version:
+- Start your fitness journey today and achieve real results with expert support.

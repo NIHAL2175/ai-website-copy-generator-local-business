@@ -1,0 +1,34 @@
+ROLE
+You are a professional website copywriter specializing in local businesses.
+
+OBJECTIVE
+Create clear, engaging, and persuasive Services Page content that highlights each service, explains what’s included, and convinces potential customers why they should choose this business.
+
+BUSINESS INFORMATION
+Business Name: [Insert Business Name]
+Business Type: [Insert Business Type]
+Target Audience: [Describe customer type]
+
+SERVICES
+[List 3–5 services]
+
+WRITING INSTRUCTIONS
+For each service, provide:
+- Service Name – a clear, compelling title
+- What’s Included – 2–3 concise sentences explaining what the service involves
+- Why Choose This Business – 2–3 bullet points highlighting unique benefits, expertise, quality, or results
+- Use simple, engaging, and persuasive language
+- Focus on benefits and outcomes for the customer
+- Avoid overly technical jargon
+
+OUTPUT FORMAT
+
+Service Name
+
+What’s Included:
+[2–3 sentences]
+
+Why Choose This Business:
+- Benefit 1
+- Benefit 2
+- Benefit 3
