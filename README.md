@@ -171,10 +171,6 @@ Use content in:
 - Value proposition refinement
 - Full website copy
 
-----
-# Live Demo / Website Link
-🔗 Live Website: https://futurefityou.lovable.app/
-
 ---
 # Tools Used
 - ChatGPT – Prompt design & generation
@@ -217,9 +213,3 @@ It creates a system that is both practical and scalable for real business use.
 This project was developed as part of the Future Interns Prompt Engineering Internship Program, focusing on building real-world AI solutions using structured prompt systems.
 
 ----
-# Author
-Mamatha
-
-CSE AIML STUDENT 
-
-Prompt Engineering Intern
